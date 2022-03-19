@@ -20,7 +20,7 @@ The following components were used in this project:
 - Pimoroni Pan-Tilt HAT
 - HDMI Display (any display works)
 
-![display-pi](https://github.com/jrroches/ME-499-object-tracking-raspis/main/images/display-pi.jpg?raw=true)
+<img align="center" src="images/display-pi.png" height="420">
 
 ## Installation
 To use the source included in this repo, the following 
