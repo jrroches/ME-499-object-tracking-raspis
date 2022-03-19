@@ -48,8 +48,8 @@ Installation is now complete!.
 
 In order to run the project, 1.) ssh into the camera-Pi 2.) open a terminal window on the desktop of the display-Pi. Navigate to the directory where you copied the folders above.
 Once in the `camera-source` and `display-source` directories, simply run these commands in the following order (on their respective Raspberyy Pi's):
-1. `python display.pi`
-2. `python camera.pi`
+1. `python display.py`
+2. `python camera.py`
 
 It is necessary that the display software be run first in order for images to begin streaming.
 
