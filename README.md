@@ -27,14 +27,14 @@ Begin by installing the latest version of Raspbian onto each Raspberry Pi using 
 Designate one Pi as the camera Pi, and the other Pi as the display Pi. Make sure both can connect to the correct network.
 
 Now, install the following packages on both Pis. No virtual environment was used in this project, but it is highly recommended.
-- opencv-python
+- `opencv-python`
 	- follow the instructions at this link: [pip install OpenCV](https://pyimagesearch.com/2018/09/19/pip-install-opencv/)
-- numpy 
+- `numpy` 
 	- make sure to force it to upgrade - necessary to work with opencv
-- imutils
-- pantilthat
+- `imutils`
+- `pantilthat`
 	- follow the instructions at this link : [Pimoroni Pan-Tilt HAT python package](https://github.com/pimoroni/pantilt-hat)
-- imagezmq
+- `imagezmq`
 
 Next, within the `source` folder are two folders:
 - `camera-source`
