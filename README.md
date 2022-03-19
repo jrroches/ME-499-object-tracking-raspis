@@ -20,5 +20,7 @@ The following components were used in this project:
 - Pimoroni Pan-Tilt HAT
 - HDMI Display (any display works)
 
+![display-pi](/images/display-pi.png)
+
 ## Installation
 To use the source included in this repo, the following 
