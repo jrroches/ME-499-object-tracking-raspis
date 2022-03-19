@@ -1,4 +1,4 @@
-# ME 499 Independent Study: Raspberyy Pi Home Security System
+# ME 499 Independent Study: Raspbery Pi Home Security System
 
 For this independent study, I explored the application of a linux based controller 
 to a couple of different engineering disciplines: motor control, computer vision, and controller networking. 
