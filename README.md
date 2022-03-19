@@ -46,7 +46,7 @@ Installation is now complete!.
 
 ## Running the Project
 
-In order to run the project, simply ssh into each Raspberry Pi and navigate to the directory where you copied the folders above.
+In order to run the project, 1.) ssh into the camera-Pi 2.) open a terminal window on the desktop of the display-Pi. Navigate to the directory where you copied the folders above.
 Once in the `camera-source` and `display-source` directories, simply run these commands in the following order (on their respective Raspberyy Pi's):
 1. `python display.pi`
 2. `python camera.pi`
